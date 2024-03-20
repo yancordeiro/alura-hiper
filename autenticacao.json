@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "forumalura-417318",
+  "private_key_id": "60c4631e27524fa95f11e86d4732c406a5629258",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsx1sJwB5l7AAI\ncws1SIQrfVPzIx5Chq75QkkP05oQCbeA+bsbtrXWKbL+hIZiXS2Z1E9vKZ+HJ4UQ\npEhXEeuRUH+QSovV4bUIDKtY4BaJGB/hicjIo/nSDGWXdpIlh+iK0MTPEWSNnmnt\nMkoeVWrCaeRBce6X6tZ/RdAWXVrKw5M4LCGvOmwawxqocolSOdsr0HExyE75wO6B\nIZcItlLudfeQvVssj5TeOX/FWUAB0o07jZMOHr0yCwLdUlo09Nyxdv8rNakj2dXY\nrJRGZx0SmLDHrvfMvJLUVoAfhrvAuDBcKMh5AYnoEBNTWDFJk7cBIhXxkH4W6TwV\nN/HgzAEFAgMBAAECggEACa7umkBLM9kjM1YHRcg3qBxRDSplssLLoaqmX52zX7y7\nrR3R776wuD0EDCGvSmoAeUOd5BQIHdIIMiOS7lZRxoYlcBfNeII63CWhoMyGVs6k\nUsafGyedg7kwJGn/zNyuGsGSlixaX1mGhEWyQ7rzzcuTgFt7TMZbmSx3ehlnUj/G\nL8z3aDJrxen1jcU9rwzu0O3AdNi/0K1LKQsGWg+sX0CjzhswgM6rVcFnEGnIsWAv\nR/pn88ZIR8AdsgSg3feybG16HHIUkpp5sd1V0WdiUx2FAFRpCGy1xJH+xtjDMfji\nSQr/83SvVZtSDfVJLvkHdd7xknAQFOlizds597tSAQKBgQDd6NCVljemvLEmX2yO\n1dRiJH4cjFqBUylKMIexvmnVND8NchUsefWjXE9b2OnswPdSd3MvgpgNT3U7ZTQ2\n4CNHqYrSrcneq2VBS1ia09yq3ytDSVpLb++I/h2hEMaI2oNLLQgOmXGeKZBm7s7r\n/8I+qAehzTgVV29bPzrFfkpYgQKBgQDHUlgMQrO8WmUSNFZgyC9B1myCmuPlG/Sz\nIxNZ9VXewHyJ4oIVvv7bGtmQmGPRU1W2ZghpYxXF1m4XDgPetQgyrb2T/x2E3U4E\nQQHAzSJEThAYH8q3UQo4PGpm+rW9wXhqGlaIftjW4ljx7oOdgfrXJN8cKCJtR7Pi\n+smKIZkGhQKBgQCqLmXoki9Tu9nPp9bFI8+hBIOCuVCfZXuA3f7ynSjkzRCd6yO5\n3D45bg2eTpf3bXU+1USM5wZdDtbFGjQU8Yec6bUBJS5vido5XOMyuc+9azDuhU6u\nE8YLtXZbk1XulkWiXYKUT7EGrrGDfxlJe/cnvg08VPnxxAAuZitYUiYKAQKBgEx/\nDcumzdQ73Q5fh8cdDQX3hS2axFvpnsAhdgvQXGRg+2rvw30VEDqG03jrA2QS15Jp\nFlFb9b83zIiMmG+gisToaRmjj3CufoKjcEjOcZhFXWfky6gPMhzjEvLyxU1OMyiF\nczBvfkj6FajEIT8R43Muc3Ia9Rt7qU4zcaXRvykBAoGAWR6KFAGp14mEJSQuwdBE\nS+th9ReSOV0CyyBhBA/jgFC/WqQYlD/VwCvqP+WzH/3yzJXQWNtMX8b992X4c4Rj\niKjFFdqs5r1tN6C0wWwsnUzBMyn4sb5/+dPeaykfLzY0siCDTv9SXWL+yp7dRvkj\nNX0oolTxXeNYdh58O8QxW6w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "forum-alura@forumalura-417318.iam.gserviceaccount.com",
+  "client_id": "108705493654786844240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forum-alura%40forumalura-417318.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
